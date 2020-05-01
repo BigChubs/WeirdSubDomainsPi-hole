@@ -1,10 +1,16 @@
 #Weird Domains that I happen to find on my network. May or maynot help someone else.
 #First Chunk is as of 5/1/2020
-zwyr157wwiu6eior.com
 shepherd.ff.avast.com
 cooper.logs.roku.com
-zwyr157wwiu6eior.com
 mapi.speedtest.net
 beacons.gcp.gvt2.com
-zwyr157wwiu6eior.com
 a.karma.sc2.fsapi.com
+#PushApperance updates
+#https://firebase.google.com/docs/remote-config
+firebaseremoteconfig.googleapis.com
+#Possibly for NordVPN/Cloudflare
+zwyr157wwiu6eior.com
+applytics.zwyr157wwiu6eior.com
+#Not sure why google doing connectivity check.
+#But blocking it to see what happens. 
+connectivitycheck.gstatic.com
