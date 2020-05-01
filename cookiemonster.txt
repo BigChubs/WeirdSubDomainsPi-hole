@@ -16,9 +16,9 @@ applytics.zwyr157wwiu6eior.com
 connectivitycheck.gstatic.com
 ####NewSection
 #in.appcenter.ms
-#static.whatsapp.net
-#www.gravatar.com
-#boi9osyg1uwtyafn.com
+static.whatsapp.net
+www.gravatar.com
+boi9osyg1uwtyafn.com
 #s.w-x.co
 #events.mapbox.com
 #i.ytimg.com
