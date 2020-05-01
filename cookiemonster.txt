@@ -1,4 +1,5 @@
-#Weird Domains that I happen to find on my network. May or maynot help someone else. 
+#Weird Domains that I happen to find on my network. May or maynot help someone else.
+#First Chunk is as of 5/1/2020
 zwyr157wwiu6eior.com
 shepherd.ff.avast.com
 cooper.logs.roku.com
