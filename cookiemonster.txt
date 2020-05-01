@@ -15,7 +15,7 @@ applytics.zwyr157wwiu6eior.com
 #But blocking it to see what happens. 
 connectivitycheck.gstatic.com
 ####NewSection
-#in.appcenter.ms
+in.appcenter.ms
 static.whatsapp.net
 www.gravatar.com
 boi9osyg1uwtyafn.com
