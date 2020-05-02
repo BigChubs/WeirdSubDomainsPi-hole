@@ -20,7 +20,7 @@ static.whatsapp.net
 www.gravatar.com
 boi9osyg1uwtyafn.com
 s.w-x.co
-#events.mapbox.com
+events.mapbox.com
 #i.ytimg.com
 #beacons.gvt2.com
 #phreshphish.classifier.brightcloud.com
