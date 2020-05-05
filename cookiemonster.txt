@@ -22,7 +22,7 @@ boi9osyg1uwtyafn.com
 s.w-x.co
 events.mapbox.com
 i.ytimg.com
-beacons.gvt2.com
+#beacons.gvt2.com
 #phreshphish.classifier.brightcloud.com
 #www.dshield.org
 #atxzsrlcewfema
