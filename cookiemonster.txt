@@ -11,9 +11,6 @@ firebaseremoteconfig.googleapis.com
 #Possibly for NordVPN/Cloudflare
 zwyr157wwiu6eior.com
 applytics.zwyr157wwiu6eior.com
-#Not sure why google doing connectivity check.
-#But blocking it to see what happens. 
-connectivitycheck.gstatic.com
 ####NewSection
 in.appcenter.ms
 static.whatsapp.net
@@ -23,7 +20,7 @@ s.w-x.co
 events.mapbox.com
 i.ytimg.com
 beacons.gvt2.com
-#phreshphish.classifier.brightcloud.com
+phreshphish.classifier.brightcloud.com
 #www.dshield.org
 #atxzsrlcewfema
 #tgaqualnc
