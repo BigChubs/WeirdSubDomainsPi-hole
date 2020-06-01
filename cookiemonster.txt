@@ -32,4 +32,4 @@ telemetry.malwarebytes.com
 reports.crashlytics.com
 ssl.google-anaylytics.com
 online-metrix.net
-*.online-metrix.ne
+*.online-metrix.net
