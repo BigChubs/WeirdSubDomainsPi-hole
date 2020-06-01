@@ -8,9 +8,6 @@ a.karma.sc2.fsapi.com
 #PushApperance updates
 #https://firebase.google.com/docs/remote-config
 firebaseremoteconfig.googleapis.com
-#Possibly for NordVPN/Cloudflare
-zwyr157wwiu6eior.com
-applytics.zwyr157wwiu6eior.com
 ####NewSection
 in.appcenter.ms
 static.whatsapp.net
@@ -22,6 +19,6 @@ i.ytimg.com
 beacons.gvt2.com
 phreshphish.classifier.brightcloud.com
 #www.dshield.org
-#atxzsrlcewfema
+atxzsrlcewfema
 #tgaqualnc
 #afzvyhheg
