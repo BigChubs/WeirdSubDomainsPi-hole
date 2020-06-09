@@ -33,4 +33,3 @@ reports.crashlytics.com
 ssl.google-anaylytics.com
 #Their was an article online that showed the following two domains did port scanning when visiting certain websites like ebay.com. https://www.bleepingcomputer.com/news/security/list-of-well-known-web-sites-that-port-scan-their-visitors/
 online-metrix.net
-*.online-metrix.net
