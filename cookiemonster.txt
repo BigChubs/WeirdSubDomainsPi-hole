@@ -22,8 +22,8 @@ phreshphish.classifier.brightcloud.com
 atxzsrlcewfema
 #tgaqualnc
 #afzvyhheg
-#The following that I personally blocked on my network. If you use the following on your network. It may break some websites or devices for you. The following as of 6/1/2020
-www.wd2go.com	
+#The following that I personally blocked on my network. the following as of 6/1/2020
+www.wd2go.com
 scribe.logs.roku.com
 it.andomedia.com
 self.events.data.microsoft.com
